@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Got my first Camera",
+    "date": "2023 March",
+    "description": "I just bought a Nikon F2 without any prior knowledge. I'm diving headfirst into the world of analog photography. Exciting times ahead!"
+  },
+  {
+    "title": "My First Roll",
+    "date": "2023 March",
+    "description": "This isn't officially my first roll (I opened the camera back and exposed the first one to light). But this roll marks the beginning of my journey into this new hobby. Took my camera to central Switzerland while visiting my parents.",
+    "imagesFolder": "assets/Projects/01_First_Roll",
+    "images": ["2023-03-17-First_Roll.jpeg"],
+    "sound": "assets/sounds/1.mp3"
+  },
+  {
+    "title": "Brutus Concert",
+    "date": "2023 March",
+    "description": "My friend invited me to a concert and I got to borrow a point-and-shoot camera. Excited to test out some shots in a dark venue!",
+    "imagesFolder": "assets/Projects/02_Brutus_Concert",
+    "images": [
+      "2023-03-24-Brutus_Concert-12.jpg",
+      "2023-03-25-Brutus_Concert-34.jpg"
+    ],
+    "sound": "assets/sounds/2.mp3"
+  },
+  {
+    "title": "Techno Event",
+    "date": "2023-03-17",
+    "description": "Loving the style of the point-and-shoot, I bought a Yashica T4. Took it to a techno event and captured some nightlife scenes.",
+    "imagesFolder": "assets/Projects/03_Techno",
+    "images": ["2023-04-22-Techno.jpeg"],
+    "sound": "assets/sounds/3.mp3"
+  },
+  {
+    "title": "Paris Street Photography",
+    "date": "2023 May",
+    "description": "What's better than testing new film and techniques on the streets of Paris? Took a different approach to sightseeing and it was fantastic.",
+    "imagesFolder": "assets/Projects/04_Paris",
+    "images": ["2023-05-20-Paris-1.jpg", "2023-05-20-Paris-2.jpg"],
+    "sound": "assets/sounds/4.mp3"
+  },
+  {
+    "title": "Paris CS:GO Major",
+    "date": "2023 May",
+    "description": "While in Paris, I managed to sneak my film camera into the arena and captured some moments at the Major.",
+    "imagesFolder": "assets/Projects/05_Paris_Major",
+    "images": [
+      "2023-05-21-Paris_Major-3.jpg",
+      "2023-05-21-Paris_Major-6.jpg",
+      "2023-05-21-Paris_Major-24.jpg"
+    ],
+    "sound": "assets/sounds/5.mp3"
+  },
+  {
+    "title": "Simon Nora Wedding",
+    "date": "2023 June",
+    "description": "At the coast in northern Croatia, I was able to capture my cousin's wedding. It was such a beautiful experience.",
+    "imagesFolder": "assets/Projects/06_Simon_Nora_Wedding",
+    "images": [
+      "2023-06-24-Simon_Nora_Wedding-18.jpg",
+      "2023-06-25-Simon_Nora_Wedding-25.jpg"
+    ],
+    "sound": "assets/sounds/6.mp3"
+  },
+  {
+    "title": "Photo Dump",
+    "date": "2023 July",
+    "description": "After returning from Croatia, I still had some rolls to fill. We made a few stops and I captured more spontaneous moments.",
+    "imagesFolder": "assets/Projects/07_Dump",
+    "images": [
+      "2023-06-01-Dump-4.jpg",
+      "2023-06-01-Dump-6.jpg",
+      "2023-06-01-Dump-9.jpg"
+    ],
+    "sound": "assets/sounds/7.mp3"
+  },
+  {
+    "title": "Madagascar",
+    "date": "2023 August",
+    "description": "Captured people and life during my trip to Madagascar. Getting film rolls through TSA was nerve-wracking. I had so much film with me!",
+    "imagesFolder": "assets/Projects/08_Madagascar",
+    "images": [
+      "Madagascar-040.jpg",
+      "Madagascar-043.jpg",
+      "Madagascar-044.jpg",
+      "Madagascar-047.jpg",
+      "Madagascar-064.jpg",
+      "Madagascar-103.jpg",
+      "Madagascar-130.jpg",
+      "Madagascar-131.jpg",
+      "Madagascar-160.jpg",
+      "Madagascar-167.jpg"
+    ],
+    "sound": "assets/sounds/8.mp3"
+  },
+  {
+    "title": "Bearpit Concert",
+    "date": "2023 September",
+    "description": "My first assignment for friends, capturing the raw energy of the Bearpit concert. A night to remember!",
+    "imagesFolder": "assets/Projects/09_Bearpit",
+    "images": [
+      "2023-09-08-Bearpit-2.jpg",
+      "2023-09-08-Bearpit-15.jpg",
+      "2023-09-08-Bearpit-28.jpg",
+      "2023-09-08-Bearpit-37.jpg"
+    ],
+    "sound": "assets/sounds/9.mp3"
+  },
+  {
+    "title": "High&Heads Techno Event",
+    "date": "2023 September",
+    "description": "Second assignment and it was a blast. Loved enjoying the music while capturing the ambiance at the High&Heads techno event.",
+    "imagesFolder": "assets/Projects/10_Sedel_High_And_Heads",
+    "images": [
+      "2023-09-30-Sedel_High_And_Heads-1.jpg",
+      "2023-09-30-Sedel_High_And_Heads-53.jpg",
+      "2023-09-30-Sedel_High_And_Heads-68.jpg"
+    ],
+    "sound": "assets/sounds/10.mp3"
+  },
+  {
+    "title": "Leica Street Photography",
+    "date": "2024 January",
+    "description": "First time shooting with a Leica rangefinder. Explored Swiss cities on a weekend trip and captured some stunning street scenes.",
+    "imagesFolder": "assets/Projects/13_Leica_Dump",
+    "images": [
+      "2024-01-04-Leica_Dump-8.jpg",
+      "2024-01-04-Leica_Dump-9.jpg",
+      "2024-01-04-Leica_Dump-15.jpg",
+      "2024-01-04-Leica_Dump-20.jpg",
+      "2024-01-04-Leica_Dump-22.jpg"
+    ],
+    "sound": "assets/sounds/11.mp3"
+  },
+  {
+    "title": "Street Photography Dump",
+    "date": "2024 February",
+    "description": "With my camera as a constant companion, capturing everyday and nightlife moments. This collection is growing nicely.",
+    "imagesFolder": "assets/Projects/14_Dump",
+    "images": ["2024-02-08-Dump-14.jpg", "2024-02-08-Dump-11.jpg"],
+    "sound": "assets/sounds/12.mp3"
+  },
+  {
+    "title": "High&Heads Techno Event 2",
+    "date": "2024 February",
+    "description": "Another paid assignment! Captured the underground vibes of the High&Heads techno event in a garage setting.",
+    "imagesFolder": "assets/Projects/15_High_And_Heads",
+    "images": [
+      "2024-02-09-High_And_Heads-2.jpg",
+      "2024-02-09-High_And_Heads-13.jpg"
+    ],
+    "sound": "assets/sounds/13.mp3"
+  },
+  {
+    "title": "Copenhagen CS2 Major",
+    "date": "2024 May",
+    "description": "Documented the excitement and intensity of the Copenhagen CS2 Major. Captured some really memorable moments.",
+    "imagesFolder": "assets/Projects/16_Copenhagen",
+    "images": [
+      "2024-04-01-Copenhagen-94.jpg",
+      "2024-04-01-Copenhagen-95.jpg",
+      "2024-04-01-Copenhagen-106.jpg",
+      "2024-04-01-Copenhagen-114.jpg"
+    ],
+    "sound": "assets/sounds/14.mp3"
+  },
+  {
+    "title": "Film Fotowalk",
+    "date": "2024 April",
+    "description": "Joined the SwissFilmClub for a photowalk in Zurich. Loved capturing the vibrant scenes and interactions on film.",
+    "imagesFolder": "assets/Projects/17_FilmWalk",
+    "images": [
+      "2024-04-27-FilmWalk-5.jpg",
+      "2024-04-27-FilmWalk-11.jpg",
+      "2024-04-27-FilmWalk-13.jpg",
+      "2024-04-27-FilmWalk-14.jpg",
+      "2024-04-27-FilmWalk-15.jpg"
+    ],
+    "sound": "assets/sounds/15.mp3"
+  },
+  {
+    "title": "Thanks for Reading My Diary",
+    "date": "2024 June",
+    "description": "I hope you enjoyed following my journey through the lens of my camera. Each roll has been a stepping stone, capturing memories and experiences. Thank you for being a part of this adventure!"
+  }
+]
