@@ -1,4 +1,5 @@
-import SceneManager from "./assets/Classes/SceneManager.js";
+import SceneManager from "./assets/classes/SceneManager.js";
+import Projects from "./assets/classes/Projects.js";
 import * as THREE from "three";
 const loadingManager = new THREE.LoadingManager();
 
@@ -10,7 +11,6 @@ let overlay = document.querySelector(".overlay");
 let loadingScreen = document.querySelector(".loading-screen");
 let progressBar = document.querySelector(".film img");
 let progressBarCanvas = document.querySelector("#progress-bar-container");
-let loaded = false;
 let musicIsPlaying = false;
 let initLoadProgress = 0;
 let lastProgress = 0;
@@ -19,11 +19,6 @@ let lastProgress = 0;
 loadingManager.onProgress = function (url, itemsLoaded, itemsTotal) {
   const progress = itemsLoaded / itemsTotal;
   updateLoadingProgress(progress);
-};
-
-loadingManager.onLoad = function () {
-  scene.animate();
-  loaded = true;
 };
 
 function updateLoadingProgress(progress) {
@@ -41,9 +36,10 @@ async function updateLoader() {
   ) {
     loadTo(initLoadProgress);
     initLoadProgress += 0.05;
-  } else if (loaded) {
+  } else if (Projects.loaded) {
     loadTo(1);
     loadingScreen.style.opacity = "0";
+    scene.animate();
     setTimeout(() => {
       loadingScreen.style.display = "none";
     }, 1000);
